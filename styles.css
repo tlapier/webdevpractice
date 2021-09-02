@@ -19,3 +19,8 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+img:hover {
+  opacity: 0;
+
+}
